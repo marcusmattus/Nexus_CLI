@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nexus CLI",
+  "description": "The web interface for Nexus: An Agentic CLI Builder platform. Features code analysis via Gemini, command manifest editing, and CLI distribution.",
+  "requestFramePermissions": []
+}
